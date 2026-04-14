@@ -1,0 +1,21 @@
+/* Estilização geral da página */
+body {
+    background-color: #0f172a; /* Define a cor de fundo (azul escuro estilo gamer) */
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+}
+
+/* Estilização do título principal */
+h1 {
+    color: #00ffcc; /* Cor do texto (verde neon) */
+    text-align: center; /* Centraliza o título */
+    text-shadow: 0px 0px 10px #00ffcc; /* Cria um efeito de brilho (neon) */
+}
+
+/* Estilização dos parágrafos */
+p {
+    color: #e2e8f0; /* Cor do texto (cinza claro para melhor leitura) */
+    font-size: 16px; /* Tamanho da fonte */
+    text-align: justify; /* Alinha o texto nas duas margens */
+    width: 60%; /* Define a largura do parágrafo */
+    margin: 20px auto; /* Centraliza o bloco e adiciona espaçamento externo */
+}
